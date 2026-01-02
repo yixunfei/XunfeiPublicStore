@@ -6,3 +6,5 @@ the header is the version,u can use vs code plugin(Hex Editor) change this, and 
 
 warning: only the pi need  > 500m to use simple key!!!
 
+
+b193z-36d67
